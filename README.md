@@ -18,7 +18,7 @@ Computer Science undergraduate who builds useful systems and leads campaigns, pa
 - 🔐 Exploring **cyber security**, from phishing detection to network scanning
 - 🤝 I lead the **Business Development & PR** team at **AIESEC**, with experience in partnerships, outreach and event coordination
 - 📍 Colombo, Sri Lanka
-- 🔎 Looking for internships in business analysis, people operations, PR and technology
+- 🔎 Looking for internships in Software Engineering. 
 
 ## 🛠️ Tech I work with
 
