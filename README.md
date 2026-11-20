@@ -18,8 +18,7 @@ Computer Science undergraduate who builds useful systems and leads campaigns, pa
 - 🎓 BSc (Hons) Computer Science student at **NSBM Green University** (2025 to 2028)
 - 💻 I build full-stack web apps with React, Python and Java
 - 🔐 Exploring **cyber security**, from phishing detection to network scanning
-- 🤝 I lead the **Business Development & PR** team at **AIESEC**
-- 🔎 Looking for **software engineering internships** (open to business analysis, people operations and PR roles too)
+- 🔎 Looking for **software engineering internships** (open to cyber security roles too)
 - 📍 Colombo, Sri Lanka
 
 ## 🛠️ Tech
